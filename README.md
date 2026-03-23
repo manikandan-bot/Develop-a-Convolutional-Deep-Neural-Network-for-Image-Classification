@@ -9,9 +9,7 @@ The problem is to design and develop a Convolutional Deep Neural Network (CNN) t
 <img width="1022" height="225" alt="image" src="https://github.com/user-attachments/assets/1ab39f6c-3a31-41f6-a953-9caa9dfe3210" />
 
 
-## Neural Network Model
 
-<img width="993" height="728" alt="image" src="https://github.com/user-attachments/assets/a454e8b3-6fae-41c7-a8d1-b18742758fac" />
 
 
 ## DESIGN STEPS
